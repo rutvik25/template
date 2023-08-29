@@ -1,0 +1,200 @@
+.nav{
+    background-color: skyblue;
+    width: 100%;
+    height: 88px;
+    margin-left: 0px;
+}
+
+.heading{
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    margin-left: 35px;
+}
+
+.tag1{
+    text-decoration: none;
+    color: rgb(143, 143, 143);
+    font-size: 20px;
+}
+
+.tag{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tag1:hover{
+    text-decoration: none;
+    color: rgb(90, 90, 90);
+}
+
+.bdy{
+    margin: auto;
+    width: 800px;
+    margin-top: 55px;
+    text-align: center;
+}
+
+.heading2{
+    font-size: 55px;
+    font-weight: 400;
+}
+
+.para{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.social_network{
+    font-size: 25px;
+    margin-top: 55px;
+    color: gray;
+}
+
+.twit{
+    font-size: 35px;
+    padding: 5px;
+    color: rgb(90, 153, 179);
+    cursor: pointer;
+}
+
+.fb{
+    font-size: 35px;
+    padding: 5px;
+    color: blue;
+    cursor: pointer;
+}
+
+.gl{
+    font-size: 35px;
+    padding: 5px;
+    color: rgb(5, 146, 146);
+    cursor: pointer;
+}
+
+.insta{
+    font-size: 35px;
+    padding: 5px;
+    color: rgb(156, 31, 52);
+    cursor: pointer;
+}
+
+.yt{
+    font-size: 35px;
+    padding: 5px;
+    color: red;
+    cursor: pointer;
+}
+
+.para2{
+    font-size: 22px;
+    color: gray;
+    margin-top: 35px;
+}
+
+.fname{
+    padding: 8px;
+    width: 250px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.lname{
+    padding: 8px;
+    width: 250px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.form1{
+    margin: auto;
+    width: 700px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.form2{
+    margin: auto;
+    width: 700px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.email{
+    padding: 8px;
+    width: 250px;
+    border: none;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+
+.subject{
+    padding: 8px;
+    width: 250px;
+    border: none;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+
+.form3{
+    margin: auto;
+    width: 700px;
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.msg{
+    padding: 8px;
+    width: 570px;
+    border: none;
+    background-color: whitesmoke;
+    margin-top: 20px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.btn1{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    width: 300px;
+    padding: 9px;
+    border-radius: 35px;
+}
+
+.para3{
+    font-size: 22px;
+    color: gray;
+    margin-top: 35px;
+}
+
+.form4{
+    display: flex;
+    justify-content: center;   
+}
+
+.footer{
+    background-color: whitesmoke;
+    height: 80px;
+}
+
+.tag2{
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    padding: 20px;
+}
+
+.tag2:hover{
+    color: rgba(95, 95, 95, 0.308);
+    text-decoration: none;
+}
+
+.para4{
+    text-align: right;
+    margin-top: -20px;
+    color: rgb(95, 95, 95);
+}
